@@ -53,14 +53,6 @@ The following flowchart illustrates the program workflow.
 5. View the result.
 
 ---
-
-## 🚀 Future Improvements
-
-- Improve the user interface.
-- Reduce code duplication.
-- Validate user input.
-- Save encrypted messages to a file.
-- Support additional encryption algorithms.
-
+## 👩‍💻 Author
 
 **Engy Magdy**
